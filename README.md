@@ -18,3 +18,9 @@
 ## Figma:
 
 https://www.figma.com/file/qK6kajJIEgfU5PZZYsYnlG/Projeto-Profile?node-id=0%3A1&t=RO8oodaBJXNCxl5c-0
+
+## Preview:
+
+![foto1](https://user-images.githubusercontent.com/64181619/216392978-aba304aa-8b7a-46ea-b730-6ab3246a31bc.PNG)
+
+
