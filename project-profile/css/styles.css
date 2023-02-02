@@ -1,26 +1,51 @@
-*{
+* {
     box-sizing: border-box;
 }
 
-html, body{
+html,
+body {
     padding: 0;
     margin: 0;
     font-family: "Montserrat", sans-serif;
 }
 
-.nav-container{
+.nav-container {
     background-color: #2C3E50;
     height: 100px;
     width: 100%;
+    padding: 20px;
 }
 
-.nav-main{
+.nav-main {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
-    border: 1px solid yellow;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .nav-main a {
     color: #FFFF;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.menu-items {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-items li {
+    margin: 10px;
+    font-size: 14px;
+}
+
+.nav-brand {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
 }
